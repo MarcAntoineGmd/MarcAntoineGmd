@@ -17,9 +17,6 @@ Hi, I'm Marc-Antoine! I'm a Software Engineering student with a passion for game
   <a href="https://devpost.com/marcus-stradivarius?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/>
   </a>
-  <a href="mailto:marcusstradivarius@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://discord.com/users/519940783089123348" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
