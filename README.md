@@ -18,7 +18,7 @@ Hi, I'm Marc-Antoine! I'm a Software Engineering student at Polytechnique Montre
   <a href="https://discord.com/users/519940783089123348" style="text-decoration:none;">
     <img border="0" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:marcusstradivarius@gmail.com" style="text-decoration:none;">
+  <a href="https://mail.google.com/mail/?view=cm&to=marcusstradivarius@gmail.com" target="_blank">
     <img border="0" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
