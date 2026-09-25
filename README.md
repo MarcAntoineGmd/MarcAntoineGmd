@@ -4,7 +4,7 @@
 
 ## About me :
 
-Hi, I'm Marc-Antoine! I'm a Software Engineering student at Polytechnique Montreal with a passion for fullstack, AI/ML, software development and the technical side of building applications and games. I enjoy creating systems, exploring how game engines work, and taking on challenging and original projects. When I'm not busy with school, you'll usually find me working on personal projects I would actually use in my everyday life.
+Hi, I'm Marc-Antoine! I'm a Software Engineering student at Polytechnique Montreal with a passion for fullstack, AI/ML, software development and the technical side of building applications and games. I enjoy creating systems, exploring how algorithms work, and taking on challenging and original projects. When I'm not busy with school, you'll usually find me working on personal projects I would actually use in my everyday life.
 
 ## Connect with me !
 
