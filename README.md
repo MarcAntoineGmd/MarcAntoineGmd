@@ -1,6 +1,6 @@
 # README.md
 
-# Hello world
+# Hello, world
 
 ## About me :
 
