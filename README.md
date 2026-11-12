@@ -51,7 +51,6 @@ Hi, I'm Marc-Antoine! I'm a Software Engineering student at Polytechnique Montre
   <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Avalonia%20UI-8B44AC?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 </p>
 
 ### Databases, Cloud & DevOps
