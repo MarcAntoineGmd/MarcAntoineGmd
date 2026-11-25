@@ -1,6 +1,6 @@
 <img src="./assets/header.svg" width="100%" alt="Marc-Antoine Gaumond · Software Engineering · Polytechnique Montréal" />
 
-Hi, I'm Marc-Antoine (Marco). I study Software Engineering at Polytechnique Montréal and I'm a backend developer at Hack4Impact Polytechnique. I like fullstack work, AI/ML, system architecture, and figuring out how algorithms actually work. Outside of school I mostly build tools I'd use myself.
+Hi, I'm Marc-Antoine (Marco). I study Software Engineering at Polytechnique Montréal and I'm a fullstack software developer at Hack4Impact Polytechnique. I like fullstack work, AI/ML, system architecture, and figuring out how algorithms actually work. Outside of school I mostly build tools I'd use myself.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marc-antoine-gaumond-b9b609396"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
